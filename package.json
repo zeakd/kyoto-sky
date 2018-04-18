@@ -1,0 +1,25 @@
+{
+  "name": "kyoto-sky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --out-dir docs/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeakd/kyoto-sky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeakd/kyoto-sky/issues"
+  },
+  "homepage": "https://github.com/zeakd/kyoto-sky#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.7.1"
+  }
+}
